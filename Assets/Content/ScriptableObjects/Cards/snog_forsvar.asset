@@ -15,5 +15,5 @@ MonoBehaviour:
   isPictureCard: 0
   sprite: {fileID: 0}
   cardTextDanish: Jeg er ikke giftig, men jeg lugter grimt hvis jeg bliver bange
-  cardTextEnglish: I'm not poisonous, but I can smell bad if scared
+  cardTextEnglish: I'm not poisonous, but I can smell bad if I get scared
   snakeType: 0
