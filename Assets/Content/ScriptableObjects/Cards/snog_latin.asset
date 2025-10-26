@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Mit Navn p\xE5 latin er \nNatrix natrix"
-  cardTextEnglish: "My name in latin is \nNatrix natrix"
+  cardTextDanish: "Min pels holder mig varm p\xE5 selv de koldeste dage. Jeg kan
+    holde varmen selv n\xE5r det er -70 grader!"
+  cardTextEnglish: My fur always keeps me nice and warm. I can stay warm even if
+    it's -70 degrees!
   snakeType: 0

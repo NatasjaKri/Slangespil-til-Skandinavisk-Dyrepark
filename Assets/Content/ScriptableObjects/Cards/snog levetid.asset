@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg kan blive 25 \xE5r gamle"
-  cardTextEnglish: I can turn 25 years old
+  cardTextDanish: "Jeg kan blive 2-6 \xE5r gammel og vejer 3-8kg"
+  cardTextEnglish: I live 2-6 years and weigh 3-8kg
   snakeType: 0

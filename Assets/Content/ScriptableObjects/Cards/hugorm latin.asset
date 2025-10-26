@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Mit Navn p\xE5 latin er \nVipera berus"
-  cardTextEnglish: "My name in latin is \nVipera berus"
+  cardTextDanish: "Jeg vejer 6-11kg og jeg bliver ofte kaldt Mikkel R\xE6v"
+  cardTextEnglish: I weigh 6-11kg and I sometimes get called Tod
   snakeType: 1

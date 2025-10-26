@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: Her er lidt placeholder tekst
-  cardTextEnglish: Here is some placeholder text
+  cardTextDanish: "Jeg sover om dagen og kommer frem n\xE5r du g\xE5r i seng"
+  cardTextEnglish: I sleep all day and come out when you go to sleep
   snakeType: 1

@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg lever i 9 til 11 \xE5r"
-  cardTextEnglish: I live for 9 to 11 years
+  cardTextDanish: "Jeg kan blive 5 \xE5r gammel i naturen eller helt op til 12 \xE5r
+    i fangeskab"
+  cardTextEnglish: I can get up to 5 years old in the wild and up to 12 years in
+    captivity
   snakeType: 1
