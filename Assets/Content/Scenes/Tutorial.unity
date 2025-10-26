@@ -155,8 +155,8 @@ Camera:
   m_GameObject: {fileID: 561021695}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.80784315, g: 0.827451, b: 0.6117647, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -353,10 +353,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ee819938f99e504dab739304fb9c57c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
-  tutorialDanish: "Du bliver stillet en r\xE6kke sp\xF8rgsm\xE5l hvor du svare snog
-    eller hugorm.\nSwipe til h\xF8jre for at svare snog, og til venstre for at svare
-    hugorm.\nhvis du er i tvivel, kan du kigge p\xE5 udstillingen"
-  tutorialEnglish: 
+  tutorialDanish: "I denne quiz skal vi svarer p\xE5 sp\xF8rgsm\xE5l om de danske
+    slange arter, nemlig snogen og hugormen.   \nSwipe kortet til h\xF8jre eller
+    venstre for at svare."
+  tutorialEnglish: "In this quiz, we are going to learn about danish snakes. Find
+    out if the questions are about grass-snakes or Common European Adder. \nSwipe
+    the card left or right to answer"
   nextBtnTextDanish: "N\xE6ste"
   nextBtnTextEnglish: next
 --- !u!1660057539 &9223372036854775807

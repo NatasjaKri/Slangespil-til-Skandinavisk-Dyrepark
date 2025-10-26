@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: Jeg er ikke giftig, men jeg lugter
-  cardTextEnglish: I'm not poisonous, but I smell
+  cardTextDanish: Jeg er ikke giftig, men jeg lugter grimt hvis jeg bliver bange
+  cardTextEnglish: I'm not poisonous, but I can smell bad if scared
   snakeType: 0

@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg spiser Krybdyr, mus, \nfr\xF8er og mindre fugle"
+  cardTextDanish: "Jeg spiser krybdyr, mus, \nfr\xF8er og mindre fugle"
   cardTextEnglish: "I eat reptiles, mice, \nfrogs and small birds."
   snakeType: 1
