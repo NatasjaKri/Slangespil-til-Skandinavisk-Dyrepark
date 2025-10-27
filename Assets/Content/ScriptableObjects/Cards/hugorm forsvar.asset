@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: Jeg er giftig
-  cardTextEnglish: I am poisonous
+  cardTextDanish: "Jeg er verdens st\xF8rste rovdyr p\xE5 land og kan veje over 500kg"
+  cardTextEnglish: I am the worlds biggest predator on land and I can weight over
+    500kg
   snakeType: 1

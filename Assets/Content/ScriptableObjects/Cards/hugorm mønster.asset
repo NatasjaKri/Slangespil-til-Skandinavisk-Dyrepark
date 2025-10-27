@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: "hugorm m\xF8nster"
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 1
-  sprite: {fileID: 21300000, guid: eddcfa412d1d2bf4c9a4754220773f65, type: 3}
+  sprite: {fileID: 9031612903575657696, guid: 1dba600322be1214a8d16c3333faf3f4, type: 3}
   cardTextDanish: 
   cardTextEnglish: 
   snakeType: 1

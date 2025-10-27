@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: Jeg er ikke giftig, men jeg lugter
-  cardTextEnglish: I'm not poisonous, but I smell
+  cardTextDanish: "Jeg vejer 100-400kg og \xE6der alt jeg kan om sommeren, s\xE5
+    jeg er klar til vinterhi"
+  cardTextEnglish: 'I weigh 100-400kg and eat eveything I can in summer, to get ready
+    for hibernation '
   snakeType: 0

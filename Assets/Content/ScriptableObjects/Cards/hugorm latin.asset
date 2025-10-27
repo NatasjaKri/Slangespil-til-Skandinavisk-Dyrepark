@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Mit Navn p\xE5 latin er \nVipera berus"
-  cardTextEnglish: "My name in latin is \nVipera berus"
+  cardTextDanish: "Hvis jeg st\xE5r p\xE5 mine bagben, kan jeg v\xE6re op til 3 meter
+    h\xF8j"
+  cardTextEnglish: If I stand on my hind legs, I can get up to 3 meters tall
   snakeType: 1

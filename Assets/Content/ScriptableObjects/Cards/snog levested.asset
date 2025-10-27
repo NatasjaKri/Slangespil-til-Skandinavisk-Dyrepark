@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg lever i moser, sump og vandl\xF8b"
-  cardTextEnglish: I live in bogs, swamps and streams
+  cardTextDanish: "Jeg lever i skove og tundraer, is\xE6r t\xE6t p\xE5 vandl\xF8b"
+  cardTextEnglish: I live in forests and tundras, especially near streams
   snakeType: 0
