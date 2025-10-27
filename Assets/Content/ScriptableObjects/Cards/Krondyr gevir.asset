@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2f28e737742c4448ba511fcfeefaf4d, type: 3}
-  m_Name: snog levested
+  m_Name: Krondyr gevir
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
-  isPictureCard: 0
-  sprite: {fileID: 0}
-  cardTextDanish: "Jeg lever i moser, sump og vandl\xF8b"
-  cardTextEnglish: I live in bogs, swamps and streams
+  isPictureCard: 1
+  sprite: {fileID: 21300000, guid: c837a45d974590842bb6b92c223b680a, type: 3}
+  cardTextDanish: 
+  cardTextEnglish: 
   snakeType: 0

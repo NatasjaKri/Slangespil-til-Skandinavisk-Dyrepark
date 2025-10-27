@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c4d7a4525f61eb248b161d69daf632b3
+guid: c837a45d974590842bb6b92c223b680a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2144131892657236139
-    second: "snog m\xF8nster_0"
+      213: -7277899246851542430
+    second: Krondyr gevir_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "snog m\xF8nster_0"
+      name: Krondyr gevir_0
       rect:
         serializedVersion: 2
-        x: 145
+        x: 0
         y: 0
-        width: 234
-        height: 637
+        width: 496
+        height: 697
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 557549a57638e32e0800000000000000
-      internalID: -2144131892657236139
+      spriteID: 262b458e135bffa90800000000000000
+      internalID: -7277899246851542430
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "snog m\xF8nster_0": -2144131892657236139
+      Krondyr gevir_0: -7277899246851542430
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

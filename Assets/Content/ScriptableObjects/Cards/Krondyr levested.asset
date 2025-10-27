@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2f28e737742c4448ba511fcfeefaf4d, type: 3}
-  m_Name: snog navn
+  m_Name: Krondyr levested
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Mit navn p\xE5 englsk er Grass snake"
-  cardTextEnglish: My name in danish is Snog
+  cardTextDanish: "Jeg lever Skov og gr\xE6ssletter"
+  cardTextEnglish: I live in forest and grasslands
   snakeType: 0

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2f28e737742c4448ba511fcfeefaf4d, type: 3}
-  m_Name: snog_mad
+  m_Name: "D\xE5dyret levetid"
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg spiser \nFr\xF8er, Tudser og Fisk"
-  cardTextEnglish: "I eat \nfrogs, toads and fish"
-  snakeType: 0
+  cardTextDanish: "Jeg kan lever op til 15 \xE5r"
+  cardTextEnglish: I can live up to 15 years
+  snakeType: 1

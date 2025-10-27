@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2f28e737742c4448ba511fcfeefaf4d, type: 3}
-  m_Name: hugorm levested
+  m_Name: Krondyr levetid
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: Jeg lever i skove, heder og klitter
-  cardTextEnglish: I live in forests, heaths and dunes
-  snakeType: 1
+  cardTextDanish: "Jeg kan blive 10-15 \xE5r"
+  cardTextEnglish: "I can turn 10-15 \xE5r years old"
+  snakeType: 0
