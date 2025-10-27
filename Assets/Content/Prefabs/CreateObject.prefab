@@ -44,5 +44,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 660d40d50baaa7448a8936acde87309a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LoadBehaviour
-  myPrefab: {fileID: 2705576409740796707, guid: 0945311b26fc97c4bac9d52b68bc2f97, type: 3}
+  pictureCardPrefab: {fileID: 0}
+  factCardPrefab: {fileID: 0}
   cardList: {fileID: 11400000, guid: 57dd6d173d728bc428b544515e101d15, type: 2}
