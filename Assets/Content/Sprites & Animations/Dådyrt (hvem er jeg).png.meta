@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: f13bce5dad43c17468ff07e0ac8d0de6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6985382706171700861
+    second: "D\xE5dyrt (hvem er jeg)_0"
+  - first:
+      213: 3128194812084874624
+    second: "D\xE5dyrt (hvem er jeg)_1"
+  - first:
+      213: 7545676292488757818
+    second: "D\xE5dyrt (hvem er jeg)_2"
+  - first:
+      213: 868403151376338008
+    second: "D\xE5dyrt (hvem er jeg)_3"
+  - first:
+      213: 5136545261586149047
+    second: "D\xE5dyrt (hvem er jeg)_4"
+  - first:
+      213: -8677288659737184784
+    second: "D\xE5dyrt (hvem er jeg)_5"
+  - first:
+      213: 6856829623827106395
+    second: "D\xE5dyrt (hvem er jeg)_6"
+  - first:
+      213: 1283796134253548926
+    second: "D\xE5dyrt (hvem er jeg)_7"
+  - first:
+      213: 6233093978479941577
+    second: "D\xE5dyrt (hvem er jeg)_8"
+  - first:
+      213: -500201308265633154
+    second: "D\xE5dyrt (hvem er jeg)_9"
+  - first:
+      213: -5106277762950400640
+    second: "D\xE5dyrt (hvem er jeg)_10"
+  - first:
+      213: -7188721274489531623
+    second: "D\xE5dyrt (hvem er jeg)_11"
+  - first:
+      213: -5867092191512973116
+    second: "D\xE5dyrt (hvem er jeg)_12"
+  - first:
+      213: 3710008601014115781
+    second: "D\xE5dyrt (hvem er jeg)_13"
+  - first:
+      213: -1189203831412863292
+    second: "D\xE5dyrt (hvem er jeg)_14"
+  - first:
+      213: -2857070484395316714
+    second: "D\xE5dyrt (hvem er jeg)_15"
+  - first:
+      213: 8711327336078682810
+    second: "D\xE5dyrt (hvem er jeg)_16"
+  - first:
+      213: -4897160301673792413
+    second: "D\xE5dyrt (hvem er jeg)_17"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 600
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d766585af8011f060800000000000000
+      internalID: 6985382706171700861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_1"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08de9829b94996b20800000000000000
+      internalID: 3128194812084874624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_2"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3201ebfb90a7b860800000000000000
+      internalID: 7545676292488757818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_3"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 242
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ccd9fa0103d0c00800000000000000
+      internalID: 868403151376338008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_4"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 249
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beee8963bca84740800000000000000
+      internalID: 5136545261586149047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_5"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5f6de20f3149780800000000000000
+      internalID: -8677288659737184784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_6"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 249
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a079db63a582f50800000000000000
+      internalID: 6856829623827106395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_7"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75d33248c5f0d110800000000000000
+      internalID: 1283796134253548926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_8"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 249
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c75ce6f2f5608650800000000000000
+      internalID: 6233093978479941577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_9"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a24a07f8dee09f0800000000000000
+      internalID: -500201308265633154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_10"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 248
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0857dd6cd6bd229b0800000000000000
+      internalID: -5106277762950400640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_11"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91312cc96188c3c90800000000000000
+      internalID: -7188721274489531623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_12"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 162
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0b66cacb6e39ea0800000000000000
+      internalID: -5867092191512973116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_13"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 162
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd17198a299c7330800000000000000
+      internalID: 3710008601014115781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_14"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 161
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce4a1f7a691f7fe0800000000000000
+      internalID: -1189203831412863292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_15"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 161
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a2d572885a958d0800000000000000
+      internalID: -2857070484395316714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_16"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 162
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaae1dbe0ad4e870800000000000000
+      internalID: 8711327336078682810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xE5dyrt (hvem er jeg)_17"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cb692e6aac90cb0800000000000000
+      internalID: -4897160301673792413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "D\xE5dyrt (hvem er jeg)_0": 6985382706171700861
+      "D\xE5dyrt (hvem er jeg)_1": 3128194812084874624
+      "D\xE5dyrt (hvem er jeg)_10": -5106277762950400640
+      "D\xE5dyrt (hvem er jeg)_11": -7188721274489531623
+      "D\xE5dyrt (hvem er jeg)_12": -5867092191512973116
+      "D\xE5dyrt (hvem er jeg)_13": 3710008601014115781
+      "D\xE5dyrt (hvem er jeg)_14": -1189203831412863292
+      "D\xE5dyrt (hvem er jeg)_15": -2857070484395316714
+      "D\xE5dyrt (hvem er jeg)_16": 8711327336078682810
+      "D\xE5dyrt (hvem er jeg)_17": -4897160301673792413
+      "D\xE5dyrt (hvem er jeg)_2": 7545676292488757818
+      "D\xE5dyrt (hvem er jeg)_3": 868403151376338008
+      "D\xE5dyrt (hvem er jeg)_4": 5136545261586149047
+      "D\xE5dyrt (hvem er jeg)_5": -8677288659737184784
+      "D\xE5dyrt (hvem er jeg)_6": 6856829623827106395
+      "D\xE5dyrt (hvem er jeg)_7": 1283796134253548926
+      "D\xE5dyrt (hvem er jeg)_8": 6233093978479941577
+      "D\xE5dyrt (hvem er jeg)_9": -500201308265633154
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

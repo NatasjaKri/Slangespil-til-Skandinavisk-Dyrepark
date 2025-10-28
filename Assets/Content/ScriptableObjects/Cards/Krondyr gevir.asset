@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Krondyr gevir
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 1
-  sprite: {fileID: 21300000, guid: c837a45d974590842bb6b92c223b680a, type: 3}
+  sprite: {fileID: 21300000, guid: 78be283ecbe256045ab79b6c0a95649b, type: 3}
   cardTextDanish: 
   cardTextEnglish: 
   snakeType: 0

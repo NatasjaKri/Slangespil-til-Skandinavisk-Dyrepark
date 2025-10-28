@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: d65dd7c29a415ff4da9ffc9266952746
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6587795376603290717
+    second: Krondyret (hvem er jeg)_0
+  - first:
+      213: -2360175724201788456
+    second: Krondyret (hvem er jeg)_1
+  - first:
+      213: 3184011151488682943
+    second: Krondyret (hvem er jeg)_2
+  - first:
+      213: -5035261491915565562
+    second: Krondyret (hvem er jeg)_3
+  - first:
+      213: 3386129378027539449
+    second: Krondyret (hvem er jeg)_4
+  - first:
+      213: 697492839715731535
+    second: Krondyret (hvem er jeg)_5
+  - first:
+      213: 4765554606052341021
+    second: Krondyret (hvem er jeg)_6
+  - first:
+      213: 1750327744276996155
+    second: Krondyret (hvem er jeg)_7
+  - first:
+      213: 6919395255508813134
+    second: Krondyret (hvem er jeg)_8
+  - first:
+      213: 5326083455463445790
+    second: Krondyret (hvem er jeg)_9
+  - first:
+      213: -8076898479634422413
+    second: Krondyret (hvem er jeg)_10
+  - first:
+      213: 196595807378709539
+    second: Krondyret (hvem er jeg)_11
+  - first:
+      213: 2603539830099413164
+    second: Krondyret (hvem er jeg)_12
+  - first:
+      213: -4020239648321301545
+    second: Krondyret (hvem er jeg)_13
+  - first:
+      213: 4964901616919276648
+    second: Krondyret (hvem er jeg)_14
+  - first:
+      213: -1744980886173178500
+    second: Krondyret (hvem er jeg)_15
+  - first:
+      213: -5681184737176686668
+    second: Krondyret (hvem er jeg)_16
+  - first:
+      213: 1755678511905036499
+    second: Krondyret (hvem er jeg)_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 600
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c566bcdfc8c6b50800000000000000
+      internalID: 6587795376603290717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbb37ffea8fe3fd0800000000000000
+      internalID: -2360175724201788456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb8d5dc541ef2c20800000000000000
+      internalID: 3184011151488682943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 242
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6065b2fd9582f1ab0800000000000000
+      internalID: -5035261491915565562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 249
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb88d49ab2fdfe20800000000000000
+      internalID: 3386129378027539449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4872a0da0efda900800000000000000
+      internalID: 697492839715731535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 249
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15f97b4aa6a22240800000000000000
+      internalID: 4765554606052341021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30242e4fc96a4810800000000000000
+      internalID: 1750327744276996155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 249
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4540290351a60060800000000000000
+      internalID: 6919395255508813134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15dbf61fac0ae940800000000000000
+      internalID: 5326083455463445790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 248
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3756f7240a719ef80800000000000000
+      internalID: -8076898479634422413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c932f58d27ab200800000000000000
+      internalID: 196595807378709539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 162
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca808ab6ea1a12420800000000000000
+      internalID: 2603539830099413164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 162
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d31ed9075d3538c0800000000000000
+      internalID: -4020239648321301545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 161
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c6c3527bfd6e440800000000000000
+      internalID: 4964901616919276648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 161
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c752dcb112598c7e0800000000000000
+      internalID: -1744980886173178500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 162
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf663de4906821b0800000000000000
+      internalID: -5681184737176686668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyret (hvem er jeg)_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8d2e9fd4c6d5810800000000000000
+      internalID: 1755678511905036499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Krondyret (hvem er jeg)_0: 6587795376603290717
+      Krondyret (hvem er jeg)_1: -2360175724201788456
+      Krondyret (hvem er jeg)_10: -8076898479634422413
+      Krondyret (hvem er jeg)_11: 196595807378709539
+      Krondyret (hvem er jeg)_12: 2603539830099413164
+      Krondyret (hvem er jeg)_13: -4020239648321301545
+      Krondyret (hvem er jeg)_14: 4964901616919276648
+      Krondyret (hvem er jeg)_15: -1744980886173178500
+      Krondyret (hvem er jeg)_16: -5681184737176686668
+      Krondyret (hvem er jeg)_17: 1755678511905036499
+      Krondyret (hvem er jeg)_2: 3184011151488682943
+      Krondyret (hvem er jeg)_3: -5035261491915565562
+      Krondyret (hvem er jeg)_4: 3386129378027539449
+      Krondyret (hvem er jeg)_5: 697492839715731535
+      Krondyret (hvem er jeg)_6: 4765554606052341021
+      Krondyret (hvem er jeg)_7: 1750327744276996155
+      Krondyret (hvem er jeg)_8: 6919395255508813134
+      Krondyret (hvem er jeg)_9: 5326083455463445790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

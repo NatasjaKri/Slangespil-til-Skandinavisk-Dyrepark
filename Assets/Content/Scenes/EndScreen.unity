@@ -328,7 +328,7 @@ MonoBehaviour:
   endTextName: EndScreenTitle_Lbl
   scoreTextName: FinalScore_Lbl
   buttonName: ToMainMenu_Btn
-  endTextDK: "S\xE5dan! Hvor godt kan du kende forkel p\xE5 slangerne?"
+  endTextDK: "S\xE5dan! Hvor godt kan du kende forkel p\xE5 dem?"
   endTextEN: Finished! How well can you tell the difference?
   scoreTextDK: 'Din Score er:'
   scoreTextEN: 'Your Score is:'

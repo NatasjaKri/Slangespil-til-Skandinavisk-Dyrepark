@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 78be283ecbe256045ab79b6c0a95649b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6775624392105726589
+    second: Krondyr gevir (1)_0
+  - first:
+      213: 5477889601353034843
+    second: Krondyr gevir (1)_1
+  - first:
+      213: 4556868603639725880
+    second: Krondyr gevir (1)_2
+  - first:
+      213: -1852279236771265668
+    second: Krondyr gevir (1)_3
+  - first:
+      213: 3684104038347755998
+    second: Krondyr gevir (1)_4
+  - first:
+      213: -7843182717812899365
+    second: Krondyr gevir (1)_5
+  - first:
+      213: 1554829328443715340
+    second: Krondyr gevir (1)_6
+  - first:
+      213: 4117828665284402316
+    second: Krondyr gevir (1)_7
+  - first:
+      213: 324600545201487372
+    second: Krondyr gevir (1)_8
+  - first:
+      213: 6413570092197127883
+    second: Krondyr gevir (1)_9
+  - first:
+      213: -2936656129776281520
+    second: Krondyr gevir (1)_10
+  - first:
+      213: 2786673672107108205
+    second: Krondyr gevir (1)_11
+  - first:
+      213: 886896063069313440
+    second: Krondyr gevir (1)_12
+  - first:
+      213: -4649393015967683827
+    second: Krondyr gevir (1)_13
+  - first:
+      213: 2981595542663154351
+    second: Krondyr gevir (1)_14
+  - first:
+      213: -753375528293659376
+    second: Krondyr gevir (1)_15
+  - first:
+      213: -4805901260725030722
+    second: Krondyr gevir (1)_16
+  - first:
+      213: -5737552254550645607
+    second: Krondyr gevir (1)_17
+  - first:
+      213: 8405933423029660173
+    second: Krondyr gevir (1)_18
+  - first:
+      213: 3338057128319918754
+    second: Krondyr gevir (1)_19
+  - first:
+      213: -5510742833035813874
+    second: Krondyr gevir (1)_20
+  - first:
+      213: -7717250217503542329
+    second: Krondyr gevir (1)_21
+  - first:
+      213: -6915786948527897726
+    second: Krondyr gevir (1)_22
+  - first:
+      213: -3377029303415942885
+    second: Krondyr gevir (1)_23
+  - first:
+      213: 7081416556831676188
+    second: Krondyr gevir (1)_24
+  - first:
+      213: 5553406993366992029
+    second: Krondyr gevir (1)_25
+  - first:
+      213: 2765300083513030404
+    second: Krondyr gevir (1)_26
+  - first:
+      213: 5381106816723918810
+    second: Krondyr gevir (1)_27
+  - first:
+      213: -2285316544265822726
+    second: Krondyr gevir (1)_28
+  - first:
+      213: 6066207408629611526
+    second: Krondyr gevir (1)_29
+  - first:
+      213: 8436619383179466966
+    second: Krondyr gevir (1)_30
+  - first:
+      213: -5811337105070389252
+    second: Krondyr gevir (1)_31
+  - first:
+      213: 7673801203492832517
+    second: Krondyr gevir (1)_32
+  - first:
+      213: 5028655878650783791
+    second: Krondyr gevir (1)_33
+  - first:
+      213: 4169728315987308752
+    second: Krondyr gevir (1)_34
+  - first:
+      213: -1994795967087852382
+    second: Krondyr gevir (1)_35
+  - first:
+      213: -8254200981115922413
+    second: Krondyr gevir (1)_36
+  - first:
+      213: 4425853223806019842
+    second: Krondyr gevir (1)_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 600
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d721fee5c7ad70e50800000000000000
+      internalID: 6775624392105726589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 319
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c247fb19f550c40800000000000000
+      internalID: 5477889601353034843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 319
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f73180adf3d3f30800000000000000
+      internalID: 4556868603639725880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 318
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73ca6319d16b46e0800000000000000
+      internalID: -1852279236771265668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 319
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1dc498a11902330800000000000000
+      internalID: 3684104038347755998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 319
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd187448fda672390800000000000000
+      internalID: -7843182717812899365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 357
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f2f30590dd39510800000000000000
+      internalID: 1554829328443715340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c92389a57752930800000000000000
+      internalID: 4117828665284402316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 319
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef1aed976318400800000000000000
+      internalID: 324600545201487372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 228
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6aa7fa404910950800000000000000
+      internalID: 6413570092197127883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 225
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058163d1fc6ee37d0800000000000000
+      internalID: -2936656129776281520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 228
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67a0eab0f04ca620800000000000000
+      internalID: 2786673672107108205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 228
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a950f73543ee4c00800000000000000
+      internalID: 886896063069313440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 228
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b601e7fa90a7fb0800000000000000
+      internalID: -4649393015967683827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 228
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa43505951c06920800000000000000
+      internalID: 2981595542663154351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 228
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d8595d2f87b85f0800000000000000
+      internalID: -753375528293659376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 228
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0f1e024420e4db0800000000000000
+      internalID: -4805901260725030722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 217
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99464439f9e1060b0800000000000000
+      internalID: -5737552254550645607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 138
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a244569efd7a470800000000000000
+      internalID: 8405933423029660173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 138
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2287db549235e20800000000000000
+      internalID: 3338057128319918754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 137
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cde5c2798e583b0800000000000000
+      internalID: -5510742833035813874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 137
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c335ee90d1d6e490800000000000000
+      internalID: -7717250217503542329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 137
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28346b669603600a0800000000000000
+      internalID: -6915786948527897726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 137
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11dec5adb16221d0800000000000000
+      internalID: -3377029303415942885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 137
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c179588e6de364260800000000000000
+      internalID: 7081416556831676188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 47
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d944fccbc3aa11d40800000000000000
+      internalID: 5553406993366992029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407f62756c1506620800000000000000
+      internalID: 2765300083513030404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 86
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf1345b3288daa40800000000000000
+      internalID: 5381106816723918810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd56bb06bce840e0800000000000000
+      internalID: -2285316544265822726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 47
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cf53d7f7f7f2450800000000000000
+      internalID: 6066207408629611526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 47
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8569f31a4e41570800000000000000
+      internalID: 8436619383179466966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 47
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf78b3651bbf95fa0800000000000000
+      internalID: -5811337105070389252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 47
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c72b7981de7a60800000000000000
+      internalID: 7673801203492832517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 47
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28e8a0f0ef59c540800000000000000
+      internalID: 5028655878650783791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 47
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0bf4cafc9ddd930800000000000000
+      internalID: 4169728315987308752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_35
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 35
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4c85603af0154e0800000000000000
+      internalID: -1994795967087852382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_36
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 47
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31897e7b0ff237d80800000000000000
+      internalID: -8254200981115922413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krondyr gevir (1)_37
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 47
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a9f0de0acb6d30800000000000000
+      internalID: 4425853223806019842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Krondyr gevir (1)_0: 6775624392105726589
+      Krondyr gevir (1)_1: 5477889601353034843
+      Krondyr gevir (1)_10: -2936656129776281520
+      Krondyr gevir (1)_11: 2786673672107108205
+      Krondyr gevir (1)_12: 886896063069313440
+      Krondyr gevir (1)_13: -4649393015967683827
+      Krondyr gevir (1)_14: 2981595542663154351
+      Krondyr gevir (1)_15: -753375528293659376
+      Krondyr gevir (1)_16: -4805901260725030722
+      Krondyr gevir (1)_17: -5737552254550645607
+      Krondyr gevir (1)_18: 8405933423029660173
+      Krondyr gevir (1)_19: 3338057128319918754
+      Krondyr gevir (1)_2: 4556868603639725880
+      Krondyr gevir (1)_20: -5510742833035813874
+      Krondyr gevir (1)_21: -7717250217503542329
+      Krondyr gevir (1)_22: -6915786948527897726
+      Krondyr gevir (1)_23: -3377029303415942885
+      Krondyr gevir (1)_24: 7081416556831676188
+      Krondyr gevir (1)_25: 5553406993366992029
+      Krondyr gevir (1)_26: 2765300083513030404
+      Krondyr gevir (1)_27: 5381106816723918810
+      Krondyr gevir (1)_28: -2285316544265822726
+      Krondyr gevir (1)_29: 6066207408629611526
+      Krondyr gevir (1)_3: -1852279236771265668
+      Krondyr gevir (1)_30: 8436619383179466966
+      Krondyr gevir (1)_31: -5811337105070389252
+      Krondyr gevir (1)_32: 7673801203492832517
+      Krondyr gevir (1)_33: 5028655878650783791
+      Krondyr gevir (1)_34: 4169728315987308752
+      Krondyr gevir (1)_35: -1994795967087852382
+      Krondyr gevir (1)_36: -8254200981115922413
+      Krondyr gevir (1)_37: 4425853223806019842
+      Krondyr gevir (1)_4: 3684104038347755998
+      Krondyr gevir (1)_5: -7843182717812899365
+      Krondyr gevir (1)_6: 1554829328443715340
+      Krondyr gevir (1)_7: 4117828665284402316
+      Krondyr gevir (1)_8: 324600545201487372
+      Krondyr gevir (1)_9: 6413570092197127883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

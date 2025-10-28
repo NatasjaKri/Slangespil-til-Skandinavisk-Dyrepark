@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 54e4c0b30112719489a1d7fb90547662
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4598331416620699804
+    second: "R\xE5dyr gevir (1)_0"
+  - first:
+      213: -7274054112727011790
+    second: "R\xE5dyr gevir (1)_1"
+  - first:
+      213: 2899775672250903247
+    second: "R\xE5dyr gevir (1)_2"
+  - first:
+      213: 6620521255524427813
+    second: "R\xE5dyr gevir (1)_3"
+  - first:
+      213: 7564832593632203750
+    second: "R\xE5dyr gevir (1)_4"
+  - first:
+      213: 6873158382554024
+    second: "R\xE5dyr gevir (1)_5"
+  - first:
+      213: 1474959551374273563
+    second: "R\xE5dyr gevir (1)_6"
+  - first:
+      213: -7207285667724001379
+    second: "R\xE5dyr gevir (1)_7"
+  - first:
+      213: 1173276698956966591
+    second: "R\xE5dyr gevir (1)_8"
+  - first:
+      213: -7817369004198918044
+    second: "R\xE5dyr gevir (1)_9"
+  - first:
+      213: 8018691463071018079
+    second: "R\xE5dyr gevir (1)_10"
+  - first:
+      213: 1247913821280014138
+    second: "R\xE5dyr gevir (1)_11"
+  - first:
+      213: 3963069410327080275
+    second: "R\xE5dyr gevir (1)_12"
+  - first:
+      213: 6626453619460665117
+    second: "R\xE5dyr gevir (1)_13"
+  - first:
+      213: -4447212469939698170
+    second: "R\xE5dyr gevir (1)_14"
+  - first:
+      213: -8407575886824930893
+    second: "R\xE5dyr gevir (1)_15"
+  - first:
+      213: -5947474398966006682
+    second: "R\xE5dyr gevir (1)_16"
+  - first:
+      213: 1596159561289148806
+    second: "R\xE5dyr gevir (1)_17"
+  - first:
+      213: 3747540114532348803
+    second: "R\xE5dyr gevir (1)_18"
+  - first:
+      213: 996434651389621932
+    second: "R\xE5dyr gevir (1)_19"
+  - first:
+      213: -2290816680805041882
+    second: "R\xE5dyr gevir (1)_20"
+  - first:
+      213: 3834298248798855474
+    second: "R\xE5dyr gevir (1)_21"
+  - first:
+      213: 6028579335210426097
+    second: "R\xE5dyr gevir (1)_22"
+  - first:
+      213: 5983442903655390967
+    second: "R\xE5dyr gevir (1)_23"
+  - first:
+      213: 1620700588781114957
+    second: "R\xE5dyr gevir (1)_24"
+  - first:
+      213: -5764020412703892339
+    second: "R\xE5dyr gevir (1)_25"
+  - first:
+      213: 3916841030868373071
+    second: "R\xE5dyr gevir (1)_26"
+  - first:
+      213: 603597335676370602
+    second: "R\xE5dyr gevir (1)_27"
+  - first:
+      213: -2290627928757099108
+    second: "R\xE5dyr gevir (1)_28"
+  - first:
+      213: 1149168664063610730
+    second: "R\xE5dyr gevir (1)_29"
+  - first:
+      213: -6214745493220968725
+    second: "R\xE5dyr gevir (1)_30"
+  - first:
+      213: 2403309421424723518
+    second: "R\xE5dyr gevir (1)_31"
+  - first:
+      213: 6286472787684448905
+    second: "R\xE5dyr gevir (1)_32"
+  - first:
+      213: 2917887053713070059
+    second: "R\xE5dyr gevir (1)_33"
+  - first:
+      213: 737583744804001615
+    second: "R\xE5dyr gevir (1)_34"
+  - first:
+      213: 6063554745354877308
+    second: "R\xE5dyr gevir (1)_35"
+  - first:
+      213: -5809066064070698326
+    second: "R\xE5dyr gevir (1)_36"
+  - first:
+      213: -5155402272048139779
+    second: "R\xE5dyr gevir (1)_37"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 600
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9012377f0e80df30800000000000000
+      internalID: 4598331416620699804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_1"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 319
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eefe5f25e5d0b90800000000000000
+      internalID: -7274054112727011790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_2"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 319
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa5d83c921e3820800000000000000
+      internalID: 2899775672250903247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_3"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 318
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528e47f3101d0eb50800000000000000
+      internalID: 6620521255524427813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_4"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 319
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e39eb8e92fabf860800000000000000
+      internalID: 7564832593632203750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_5"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 319
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab80e3e91b681000800000000000000
+      internalID: 6873158382554024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_6"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 357
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cabb5b5eb187410800000000000000
+      internalID: 1474959551374273563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_7"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 319
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffb8cfed39afb90800000000000000
+      internalID: -7207285667724001379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_8"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 319
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaa29001f0584010800000000000000
+      internalID: 1173276698956966591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_9"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 228
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46803921f40238390800000000000000
+      internalID: -7817369004198918044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_10"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 225
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c2ecb966d184f60800000000000000
+      internalID: 8018691463071018079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_11"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 228
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f02bb320b715110800000000000000
+      internalID: 1247913821280014138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_12"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 228
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d23c6a1a6aff630800000000000000
+      internalID: 3963069410327080275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_13"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 228
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fed8c5574e5fb50800000000000000
+      internalID: 6626453619460665117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_14"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 228
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6068e8822d35842c0800000000000000
+      internalID: -4447212469939698170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_15"
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 228
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b109a3b64a425b80800000000000000
+      internalID: -8407575886824930893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_16"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 228
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cb6e29b83567da0800000000000000
+      internalID: -5947474398966006682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_17"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 217
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689ab770aa2b62610800000000000000
+      internalID: 1596159561289148806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_18"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 138
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3833a3cf0efe10430800000000000000
+      internalID: 3747540114532348803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_19"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 138
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f7fd390c04dd00800000000000000
+      internalID: 996434651389621932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_20"
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 137
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6297317bd526530e0800000000000000
+      internalID: -2290816680805041882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_21"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 137
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231ee8a31f9263530800000000000000
+      internalID: 3834298248798855474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_22"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 137
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe5a7fe6f0d9a350800000000000000
+      internalID: 6028579335210426097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_23"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 137
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe16368e95790350800000000000000
+      internalID: 5983442903655390967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_24"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 137
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4690914992ed7610800000000000000
+      internalID: 1620700588781114957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_25"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 47
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c1fa649f51200b0800000000000000
+      internalID: -5764020412703892339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_26"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e859e4a2a6b5630800000000000000
+      internalID: 3916841030868373071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_27"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 86
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaebc5c2498606800800000000000000
+      internalID: 603597335676370602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_28"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9528d9f80e0630e0800000000000000
+      internalID: -2290627928757099108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_29"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 47
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f8588bfcaa2ff00800000000000000
+      internalID: 1149168664063610730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_30"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 47
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6ba1ba6e9c0c9a0800000000000000
+      internalID: -6214745493220968725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_31"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 47
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36ce5d7f254a5120800000000000000
+      internalID: 2403309421424723518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_32"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 47
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a571871b90e3750800000000000000
+      internalID: 6286472787684448905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_33"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 47
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be75743d0da6e7820800000000000000
+      internalID: 2917887053713070059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_34"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 47
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47152d028c6c3a00800000000000000
+      internalID: 737583744804001615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_35"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 35
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79f2013ae2162450800000000000000
+      internalID: 6063554745354877308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_36"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 47
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa1a46413d026fa0800000000000000
+      internalID: -5809066064070698326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE5dyr gevir (1)_37"
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 47
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df13454b2f45478b0800000000000000
+      internalID: -5155402272048139779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "R\xE5dyr gevir (1)_0": 4598331416620699804
+      "R\xE5dyr gevir (1)_1": -7274054112727011790
+      "R\xE5dyr gevir (1)_10": 8018691463071018079
+      "R\xE5dyr gevir (1)_11": 1247913821280014138
+      "R\xE5dyr gevir (1)_12": 3963069410327080275
+      "R\xE5dyr gevir (1)_13": 6626453619460665117
+      "R\xE5dyr gevir (1)_14": -4447212469939698170
+      "R\xE5dyr gevir (1)_15": -8407575886824930893
+      "R\xE5dyr gevir (1)_16": -5947474398966006682
+      "R\xE5dyr gevir (1)_17": 1596159561289148806
+      "R\xE5dyr gevir (1)_18": 3747540114532348803
+      "R\xE5dyr gevir (1)_19": 996434651389621932
+      "R\xE5dyr gevir (1)_2": 2899775672250903247
+      "R\xE5dyr gevir (1)_20": -2290816680805041882
+      "R\xE5dyr gevir (1)_21": 3834298248798855474
+      "R\xE5dyr gevir (1)_22": 6028579335210426097
+      "R\xE5dyr gevir (1)_23": 5983442903655390967
+      "R\xE5dyr gevir (1)_24": 1620700588781114957
+      "R\xE5dyr gevir (1)_25": -5764020412703892339
+      "R\xE5dyr gevir (1)_26": 3916841030868373071
+      "R\xE5dyr gevir (1)_27": 603597335676370602
+      "R\xE5dyr gevir (1)_28": -2290627928757099108
+      "R\xE5dyr gevir (1)_29": 1149168664063610730
+      "R\xE5dyr gevir (1)_3": 6620521255524427813
+      "R\xE5dyr gevir (1)_30": -6214745493220968725
+      "R\xE5dyr gevir (1)_31": 2403309421424723518
+      "R\xE5dyr gevir (1)_32": 6286472787684448905
+      "R\xE5dyr gevir (1)_33": 2917887053713070059
+      "R\xE5dyr gevir (1)_34": 737583744804001615
+      "R\xE5dyr gevir (1)_35": 6063554745354877308
+      "R\xE5dyr gevir (1)_36": -5809066064070698326
+      "R\xE5dyr gevir (1)_37": -5155402272048139779
+      "R\xE5dyr gevir (1)_4": 7564832593632203750
+      "R\xE5dyr gevir (1)_5": 6873158382554024
+      "R\xE5dyr gevir (1)_6": 1474959551374273563
+      "R\xE5dyr gevir (1)_7": -7207285667724001379
+      "R\xE5dyr gevir (1)_8": 1173276698956966591
+      "R\xE5dyr gevir (1)_9": -7817369004198918044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

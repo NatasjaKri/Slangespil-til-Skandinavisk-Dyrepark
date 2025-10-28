@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: "D\xE5dyret plletter"
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 1
-  sprite: {fileID: 21300000, guid: b940f52788fa1f847a6da54f9f6c1238, type: 3}
+  sprite: {fileID: 21300000, guid: f13bce5dad43c17468ff07e0ac8d0de6, type: 3}
   cardTextDanish: "Jeg er kendt p\xE5 disse pletter"
   cardTextEnglish: I am am know for theses sports
   snakeType: 1

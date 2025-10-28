@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Krondyr skin
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 1
-  sprite: {fileID: 6840586146868756780, guid: cd2ff3ae12c35024999d38b93bcc4686, type: 3}
+  sprite: {fileID: 21300000, guid: d65dd7c29a415ff4da9ffc9266952746, type: 3}
   cardTextDanish: Jeg er ikke giftig, men jeg lugter
   cardTextEnglish: I'm not poisonous, but I smell
   snakeType: 0
