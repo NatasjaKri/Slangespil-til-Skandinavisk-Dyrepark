@@ -14,7 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg kan blive 15-25 \xE5r gammel i naturen, men helt op til 40
-    i fangeskab"
-  cardTextEnglish: I get 15-25 years old in the wild, but up to 40 years old in captivity
+  cardTextDanish: "Jeg kan blive 15-25 \xE5r gammel, men helt op til 40 i fangeskab"
+  cardTextEnglish: I get 15-25 years old, but up to 40 years old in captivity
   snakeType: 1

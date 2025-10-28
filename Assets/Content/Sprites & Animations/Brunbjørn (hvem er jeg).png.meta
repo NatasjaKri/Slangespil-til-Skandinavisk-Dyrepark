@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: f9800fa22f452554e926af5f957541db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8621493567139537620
+    second: "Brunbj\xF8rn (hvem er jeg)_0"
+  - first:
+      213: -2235309222535713100
+    second: "Brunbj\xF8rn (hvem er jeg)_1"
+  - first:
+      213: -6187956342264392662
+    second: "Brunbj\xF8rn (hvem er jeg)_2"
+  - first:
+      213: 8097851040079371294
+    second: "Brunbj\xF8rn (hvem er jeg)_3"
+  - first:
+      213: 3842032805180104580
+    second: "Brunbj\xF8rn (hvem er jeg)_4"
+  - first:
+      213: -8809636201212370217
+    second: "Brunbj\xF8rn (hvem er jeg)_5"
+  - first:
+      213: 1184607629529535664
+    second: "Brunbj\xF8rn (hvem er jeg)_6"
+  - first:
+      213: 2903268075282660417
+    second: "Brunbj\xF8rn (hvem er jeg)_7"
+  - first:
+      213: 1806838191643532537
+    second: "Brunbj\xF8rn (hvem er jeg)_8"
+  - first:
+      213: -2182940552022853071
+    second: "Brunbj\xF8rn (hvem er jeg)_9"
+  - first:
+      213: -6922811428655157494
+    second: "Brunbj\xF8rn (hvem er jeg)_10"
+  - first:
+      213: 131505584360332641
+    second: "Brunbj\xF8rn (hvem er jeg)_11"
+  - first:
+      213: -280663536979290356
+    second: "Brunbj\xF8rn (hvem er jeg)_12"
+  - first:
+      213: -3543944457827210532
+    second: "Brunbj\xF8rn (hvem er jeg)_13"
+  - first:
+      213: -5770160997047547348
+    second: "Brunbj\xF8rn (hvem er jeg)_14"
+  - first:
+      213: 2495117935941649108
+    second: "Brunbj\xF8rn (hvem er jeg)_15"
+  - first:
+      213: 7383644382671254533
+    second: "Brunbj\xF8rn (hvem er jeg)_16"
+  - first:
+      213: -3886990058155996773
+    second: "Brunbj\xF8rn (hvem er jeg)_17"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 600
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d1551874d4a5880800000000000000
+      internalID: -8621493567139537620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_1"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beaa93fa169af0e0800000000000000
+      internalID: -2235309222535713100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_2"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2494bded76ff1aa0800000000000000
+      internalID: -6187956342264392662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_3"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 242
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c55ffdd98516070800000000000000
+      internalID: 8097851040079371294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_4"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 249
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f5828fa74a15530800000000000000
+      internalID: 3842032805180104580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_5"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2a05aec82edb580800000000000000
+      internalID: -8809636201212370217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_6"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 249
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4535cdc52907010800000000000000
+      internalID: 1184607629529535664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_7"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c74faaeea7a4820800000000000000
+      internalID: 2903268075282660417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_8"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 249
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc958323cd231910800000000000000
+      internalID: 1806838191643532537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_9"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af1e63223a4b1e0800000000000000
+      internalID: -2182940552022853071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_10"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 248
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0faefb2fab3def90800000000000000
+      internalID: -6922811428655157494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_11"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d17c9d1a333d100800000000000000
+      internalID: 131505584360332641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_12"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 162
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07d1f80002ea1cf0800000000000000
+      internalID: -280663536979290356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_13"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 162
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaae7fca4161dec0800000000000000
+      internalID: -3543944457827210532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_14"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 161
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2aca2215254cefa0800000000000000
+      internalID: -5770160997047547348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_15"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 161
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d202840b8070a220800000000000000
+      internalID: 2495117935941649108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_16"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 162
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504bde02279f77660800000000000000
+      internalID: 7383644382671254533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Brunbj\xF8rn (hvem er jeg)_17"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b990322e223ae0ac0800000000000000
+      internalID: -3886990058155996773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Brunbj\xF8rn (hvem er jeg)_0": -8621493567139537620
+      "Brunbj\xF8rn (hvem er jeg)_1": -2235309222535713100
+      "Brunbj\xF8rn (hvem er jeg)_10": -6922811428655157494
+      "Brunbj\xF8rn (hvem er jeg)_11": 131505584360332641
+      "Brunbj\xF8rn (hvem er jeg)_12": -280663536979290356
+      "Brunbj\xF8rn (hvem er jeg)_13": -3543944457827210532
+      "Brunbj\xF8rn (hvem er jeg)_14": -5770160997047547348
+      "Brunbj\xF8rn (hvem er jeg)_15": 2495117935941649108
+      "Brunbj\xF8rn (hvem er jeg)_16": 7383644382671254533
+      "Brunbj\xF8rn (hvem er jeg)_17": -3886990058155996773
+      "Brunbj\xF8rn (hvem er jeg)_2": -6187956342264392662
+      "Brunbj\xF8rn (hvem er jeg)_3": 8097851040079371294
+      "Brunbj\xF8rn (hvem er jeg)_4": 3842032805180104580
+      "Brunbj\xF8rn (hvem er jeg)_5": -8809636201212370217
+      "Brunbj\xF8rn (hvem er jeg)_6": 1184607629529535664
+      "Brunbj\xF8rn (hvem er jeg)_7": 2903268075282660417
+      "Brunbj\xF8rn (hvem er jeg)_8": 1806838191643532537
+      "Brunbj\xF8rn (hvem er jeg)_9": -2182940552022853071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

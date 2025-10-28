@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: ad8575e95b630914e8340dad60ac60b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9051561884046819862
+    second: "Isbj\xF8rn (hvem er jeg)_0"
+  - first:
+      213: -306980794733089094
+    second: "Isbj\xF8rn (hvem er jeg)_1"
+  - first:
+      213: -10155492978773020
+    second: "Isbj\xF8rn (hvem er jeg)_2"
+  - first:
+      213: 8912050554740796719
+    second: "Isbj\xF8rn (hvem er jeg)_3"
+  - first:
+      213: -259685484914323344
+    second: "Isbj\xF8rn (hvem er jeg)_4"
+  - first:
+      213: 2238680247060837143
+    second: "Isbj\xF8rn (hvem er jeg)_5"
+  - first:
+      213: 729587795925409622
+    second: "Isbj\xF8rn (hvem er jeg)_6"
+  - first:
+      213: -7566064480438688935
+    second: "Isbj\xF8rn (hvem er jeg)_7"
+  - first:
+      213: 7111516844092240888
+    second: "Isbj\xF8rn (hvem er jeg)_8"
+  - first:
+      213: 1161000695946360788
+    second: "Isbj\xF8rn (hvem er jeg)_9"
+  - first:
+      213: -6380049438374321601
+    second: "Isbj\xF8rn (hvem er jeg)_10"
+  - first:
+      213: 3242366609532548038
+    second: "Isbj\xF8rn (hvem er jeg)_11"
+  - first:
+      213: 1444435364421789915
+    second: "Isbj\xF8rn (hvem er jeg)_12"
+  - first:
+      213: -1676498941765207503
+    second: "Isbj\xF8rn (hvem er jeg)_13"
+  - first:
+      213: 893223943390877704
+    second: "Isbj\xF8rn (hvem er jeg)_14"
+  - first:
+      213: 1936714714043171183
+    second: "Isbj\xF8rn (hvem er jeg)_15"
+  - first:
+      213: 7101754427298750170
+    second: "Isbj\xF8rn (hvem er jeg)_16"
+  - first:
+      213: -622050943077178963
+    second: "Isbj\xF8rn (hvem er jeg)_17"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 600
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed7ce67c64626280800000000000000
+      internalID: -9051561884046819862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_1"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe2119f7926dbbf0800000000000000
+      internalID: -306980794733089094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_2"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e33b7802abebdff0800000000000000
+      internalID: -10155492978773020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_3"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 242
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2de5afe2c6fdab70800000000000000
+      internalID: 8912050554740796719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_4"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 249
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0705b566d69656cf0800000000000000
+      internalID: -259685484914323344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_5"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713bebbd2d3611f10800000000000000
+      internalID: 2238680247060837143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_6"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 249
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f18902c34002a00800000000000000
+      internalID: 729587795925409622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_7"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95360c71170fff690800000000000000
+      internalID: -7566064480438688935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_8"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 249
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3335a24ee21b260800000000000000
+      internalID: 7111516844092240888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_9"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d73dd15bf3bc1010800000000000000
+      internalID: 1161000695946360788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_10"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 248
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a448b6d28577a0800000000000000
+      internalID: -6380049438374321601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_11"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c376c8a0433ffc20800000000000000
+      internalID: 3242366609532548038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_12"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 162
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86f5d9f4aab0410800000000000000
+      internalID: 1444435364421789915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_13"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 162
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a34cd4811ebb8e0800000000000000
+      internalID: -1676498941765207503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_14"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 161
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808dfaaa17e556c00800000000000000
+      internalID: 893223943390877704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_15"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 161
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61c0d175c790ea10800000000000000
+      internalID: 1936714714043171183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_16"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 162
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade133166008e8260800000000000000
+      internalID: 7101754427298750170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Isbj\xF8rn (hvem er jeg)_17"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da120b986f70e57f0800000000000000
+      internalID: -622050943077178963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Isbj\xF8rn (hvem er jeg)_0": -9051561884046819862
+      "Isbj\xF8rn (hvem er jeg)_1": -306980794733089094
+      "Isbj\xF8rn (hvem er jeg)_10": -6380049438374321601
+      "Isbj\xF8rn (hvem er jeg)_11": 3242366609532548038
+      "Isbj\xF8rn (hvem er jeg)_12": 1444435364421789915
+      "Isbj\xF8rn (hvem er jeg)_13": -1676498941765207503
+      "Isbj\xF8rn (hvem er jeg)_14": 893223943390877704
+      "Isbj\xF8rn (hvem er jeg)_15": 1936714714043171183
+      "Isbj\xF8rn (hvem er jeg)_16": 7101754427298750170
+      "Isbj\xF8rn (hvem er jeg)_17": -622050943077178963
+      "Isbj\xF8rn (hvem er jeg)_2": -10155492978773020
+      "Isbj\xF8rn (hvem er jeg)_3": 8912050554740796719
+      "Isbj\xF8rn (hvem er jeg)_4": -259685484914323344
+      "Isbj\xF8rn (hvem er jeg)_5": 2238680247060837143
+      "Isbj\xF8rn (hvem er jeg)_6": 729587795925409622
+      "Isbj\xF8rn (hvem er jeg)_7": -7566064480438688935
+      "Isbj\xF8rn (hvem er jeg)_8": 7111516844092240888
+      "Isbj\xF8rn (hvem er jeg)_9": 1161000695946360788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

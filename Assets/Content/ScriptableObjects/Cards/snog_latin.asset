@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg g\xE5r g\xE5r i hi og sover hele vinteren"
-  cardTextEnglish: 'I hibernate and sleep all winter '
+  cardTextDanish: "P\xE5 latin hedder jeg Ursus arctos"
+  cardTextEnglish: In latin my name is Ursus arctos
   snakeType: 0
