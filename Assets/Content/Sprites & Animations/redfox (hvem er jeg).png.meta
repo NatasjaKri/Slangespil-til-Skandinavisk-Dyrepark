@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: e116ccefc8ee0b0438969d4dabdf479c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 420714923528974873
+    second: redfox (hvem er jeg)_0
+  - first:
+      213: 7800981369811842
+    second: redfox (hvem er jeg)_1
+  - first:
+      213: 3093684539055813006
+    second: redfox (hvem er jeg)_2
+  - first:
+      213: 3338303785254992648
+    second: redfox (hvem er jeg)_3
+  - first:
+      213: 366110921015394699
+    second: redfox (hvem er jeg)_4
+  - first:
+      213: -3132448066844861377
+    second: redfox (hvem er jeg)_5
+  - first:
+      213: 7938878722746009874
+    second: redfox (hvem er jeg)_6
+  - first:
+      213: 2561721719599124717
+    second: redfox (hvem er jeg)_7
+  - first:
+      213: -3028901587667857071
+    second: redfox (hvem er jeg)_8
+  - first:
+      213: 2839937969990230631
+    second: redfox (hvem er jeg)_9
+  - first:
+      213: 1368565539309540475
+    second: redfox (hvem er jeg)_10
+  - first:
+      213: -8383848220249423858
+    second: redfox (hvem er jeg)_11
+  - first:
+      213: -5024436559268041330
+    second: redfox (hvem er jeg)_12
+  - first:
+      213: -797672146599809338
+    second: redfox (hvem er jeg)_13
+  - first:
+      213: 2303321912105818247
+    second: redfox (hvem er jeg)_14
+  - first:
+      213: -3184695103884363477
+    second: redfox (hvem er jeg)_15
+  - first:
+      213: 1367398833033690675
+    second: redfox (hvem er jeg)_16
+  - first:
+      213: 5175733491689540601
+    second: redfox (hvem er jeg)_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91276a07efda6d500800000000000000
+      internalID: 420714923528974873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283727383f6bb1000800000000000000
+      internalID: 7800981369811842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e813a8d72b9feea20800000000000000
+      internalID: 3093684539055813006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 242
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b37780b99045e20800000000000000
+      internalID: 3338303785254992648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 249
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81838361ffa41500800000000000000
+      internalID: 366110921015394699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c5a52641f4784d0800000000000000
+      internalID: -3132448066844861377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 249
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219ce28e2209c2e60800000000000000
+      internalID: 7938878722746009874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0db16d4501d8320800000000000000
+      internalID: 2561721719599124717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 249
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151d077cd0e27f5d0800000000000000
+      internalID: -3028901587667857071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762696d798c796720800000000000000
+      internalID: 2839937969990230631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 248
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74d2666b1f1ef210800000000000000
+      internalID: 1368565539309540475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e000e35967696ab80800000000000000
+      internalID: -8383848220249423858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 162
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da758e19d954ab0800000000000000
+      internalID: -5024436559268041330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 162
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cee1bea8691ee4f0800000000000000
+      internalID: -797672146599809338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 161
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788d076531b07ff10800000000000000
+      internalID: 2303321912105818247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 161
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29fb0f1da0bdc3d0800000000000000
+      internalID: -3184695103884363477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 162
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eb14d6ef9f9f210800000000000000
+      internalID: 1367398833033690675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redfox (hvem er jeg)_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb4f304036e3d740800000000000000
+      internalID: 5175733491689540601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redfox (hvem er jeg)_0: 420714923528974873
+      redfox (hvem er jeg)_1: 7800981369811842
+      redfox (hvem er jeg)_10: 1368565539309540475
+      redfox (hvem er jeg)_11: -8383848220249423858
+      redfox (hvem er jeg)_12: -5024436559268041330
+      redfox (hvem er jeg)_13: -797672146599809338
+      redfox (hvem er jeg)_14: 2303321912105818247
+      redfox (hvem er jeg)_15: -3184695103884363477
+      redfox (hvem er jeg)_16: 1367398833033690675
+      redfox (hvem er jeg)_17: 5175733491689540601
+      redfox (hvem er jeg)_2: 3093684539055813006
+      redfox (hvem er jeg)_3: 3338303785254992648
+      redfox (hvem er jeg)_4: 366110921015394699
+      redfox (hvem er jeg)_5: -3132448066844861377
+      redfox (hvem er jeg)_6: 7938878722746009874
+      redfox (hvem er jeg)_7: 2561721719599124717
+      redfox (hvem er jeg)_8: -3028901587667857071
+      redfox (hvem er jeg)_9: 2839937969990230631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

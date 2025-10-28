@@ -353,10 +353,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ee819938f99e504dab739304fb9c57c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
-  tutorialDanish: "Du bliver stillet en r\xE6kke sp\xF8rgsm\xE5l hvor du svare snog
-    eller hugorm.\nSwipe til h\xF8jre for at svare snog, og til venstre for at svare
-    hugorm.\nhvis du er i tvivel, kan du kigge p\xE5 udstillingen"
-  tutorialEnglish: 
+  tutorialDanish: "Du bliver stillet en r\xE6kke sp\xF8rgsm\xE5l hvor du svare Polar
+    eller R\xF8d r\xE6ve.\nSwipe til h\xF8jre for at svare Polar, og til venstre
+    for at svare R\xF8d r\xE6ve.\nhvis du er i tvivel, kan du kigge p\xE5 udstillingen"
+  tutorialEnglish: 'You will be asked a series of questions where you answer Polar
+    or Red Fox.
+
+    Swipe right to answer Polar, and left to answer Red Fox.
+
+    If
+    you are in doubt, you can look at the exhibition.'
   nextBtnTextDanish: "N\xE6ste"
   nextBtnTextEnglish: next
 --- !u!1660057539 &9223372036854775807

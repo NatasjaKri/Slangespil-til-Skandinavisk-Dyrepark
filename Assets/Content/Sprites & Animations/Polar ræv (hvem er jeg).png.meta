@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 23190c48497c527469af757492bec41e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6777107647136486501
+    second: "Polar r\xE6v (hvem er jeg)_0"
+  - first:
+      213: -3145459746011900967
+    second: "Polar r\xE6v (hvem er jeg)_1"
+  - first:
+      213: 4837973288303390898
+    second: "Polar r\xE6v (hvem er jeg)_2"
+  - first:
+      213: 679343300906062259
+    second: "Polar r\xE6v (hvem er jeg)_3"
+  - first:
+      213: 4905915601620818594
+    second: "Polar r\xE6v (hvem er jeg)_4"
+  - first:
+      213: 4595095417095522887
+    second: "Polar r\xE6v (hvem er jeg)_5"
+  - first:
+      213: -3353774879710132060
+    second: "Polar r\xE6v (hvem er jeg)_6"
+  - first:
+      213: -2894069992801883529
+    second: "Polar r\xE6v (hvem er jeg)_7"
+  - first:
+      213: -7648514961662599067
+    second: "Polar r\xE6v (hvem er jeg)_8"
+  - first:
+      213: -2943477113043051939
+    second: "Polar r\xE6v (hvem er jeg)_9"
+  - first:
+      213: 2602950264466772246
+    second: "Polar r\xE6v (hvem er jeg)_10"
+  - first:
+      213: -7096571704539398330
+    second: "Polar r\xE6v (hvem er jeg)_11"
+  - first:
+      213: -6953003191639862955
+    second: "Polar r\xE6v (hvem er jeg)_12"
+  - first:
+      213: -6102886861775411946
+    second: "Polar r\xE6v (hvem er jeg)_13"
+  - first:
+      213: 1636677170934567733
+    second: "Polar r\xE6v (hvem er jeg)_14"
+  - first:
+      213: 3303317025799178353
+    second: "Polar r\xE6v (hvem er jeg)_15"
+  - first:
+      213: 8499089888602327084
+    second: "Polar r\xE6v (hvem er jeg)_16"
+  - first:
+      213: 5977216565464333752
+    second: "Polar r\xE6v (hvem er jeg)_17"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56457289f7f1d0e50800000000000000
+      internalID: 6777107647136486501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_1"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d39bafb6051954d0800000000000000
+      internalID: -3145459746011900967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_2"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 292
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0f622b21fe32340800000000000000
+      internalID: 4837973288303390898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_3"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 242
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b11c0302238d6900800000000000000
+      internalID: 679343300906062259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_4"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 249
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aad7ac3f30551440800000000000000
+      internalID: 4905915601620818594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_5"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a010d9fee05cf30800000000000000
+      internalID: 4595095417095522887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_6"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 249
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8cf36148ff471d0800000000000000
+      internalID: -3353774879710132060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_7"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 248
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a2debcca236d7d0800000000000000
+      internalID: -2894069992801883529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_8"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 249
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56027da7a240bd590800000000000000
+      internalID: -7648514961662599067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_9"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 232
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a9390392ba627d0800000000000000
+      internalID: -2943477113043051939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_10"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 248
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111d8979798f1420800000000000000
+      internalID: 2602950264466772246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_11"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f37db42a9e38d90800000000000000
+      internalID: -7096571704539398330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_12"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 162
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55116209f68f18f90800000000000000
+      internalID: -6953003191639862955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_13"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 162
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6156a73dbb03e4ba0800000000000000
+      internalID: -6102886861775411946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_14"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 161
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533db892735a6b610800000000000000
+      internalID: 1636677170934567733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_15"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 161
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178824f455db7dd20800000000000000
+      internalID: 3303317025799178353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_16"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 162
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28814c3935d2f570800000000000000
+      internalID: 8499089888602327084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Polar r\xE6v (hvem er jeg)_17"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 162
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf4123cc653f250800000000000000
+      internalID: 5977216565464333752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Polar r\xE6v (hvem er jeg)_0": 6777107647136486501
+      "Polar r\xE6v (hvem er jeg)_1": -3145459746011900967
+      "Polar r\xE6v (hvem er jeg)_10": 2602950264466772246
+      "Polar r\xE6v (hvem er jeg)_11": -7096571704539398330
+      "Polar r\xE6v (hvem er jeg)_12": -6953003191639862955
+      "Polar r\xE6v (hvem er jeg)_13": -6102886861775411946
+      "Polar r\xE6v (hvem er jeg)_14": 1636677170934567733
+      "Polar r\xE6v (hvem er jeg)_15": 3303317025799178353
+      "Polar r\xE6v (hvem er jeg)_16": 8499089888602327084
+      "Polar r\xE6v (hvem er jeg)_17": 5977216565464333752
+      "Polar r\xE6v (hvem er jeg)_2": 4837973288303390898
+      "Polar r\xE6v (hvem er jeg)_3": 679343300906062259
+      "Polar r\xE6v (hvem er jeg)_4": 4905915601620818594
+      "Polar r\xE6v (hvem er jeg)_5": 4595095417095522887
+      "Polar r\xE6v (hvem er jeg)_6": -3353774879710132060
+      "Polar r\xE6v (hvem er jeg)_7": -2894069992801883529
+      "Polar r\xE6v (hvem er jeg)_8": -7648514961662599067
+      "Polar r\xE6v (hvem er jeg)_9": -2943477113043051939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

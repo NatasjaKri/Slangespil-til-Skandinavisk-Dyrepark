@@ -14,8 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg elsker sne og is. Du kan finde mig p\xE5 Gr\xF8nland, i Nordpolen
-    og andre kolde steder"
-  cardTextEnglish: I love snow and ice. You can find me on Greenland, the Northpole
-    and other snowy places
+  cardTextDanish: "Du kan finde mig p\xE5 Gr\xF8nland, i Nordpolen og andre kolde
+    steder"
+  cardTextEnglish: You can find me on Greenland, the Northpole and other snowy places
   snakeType: 0

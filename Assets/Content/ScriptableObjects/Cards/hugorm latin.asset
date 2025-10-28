@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg vejer 6-11kg og jeg bliver ofte kaldt Mikkel R\xE6v"
-  cardTextEnglish: I weigh 6-11kg and I sometimes get called Tod
+  cardTextDanish: Jeg vejer 6-11 kg
+  cardTextEnglish: I weigh 6-11 kg
   snakeType: 1
