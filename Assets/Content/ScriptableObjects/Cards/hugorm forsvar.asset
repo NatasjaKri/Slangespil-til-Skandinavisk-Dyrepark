@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg er verdens st\xF8rste landrovdyr og veje over 500kg"
-  cardTextEnglish: I am the worlds biggest landpredator and weight over 500kg
+  cardTextDanish: "Jeg er verdens st\xF8rste landrovdyr og kan veje over 500kg"
+  cardTextEnglish: I am the worlds biggest landpredator and can weigh over 500kg
   snakeType: 1
