@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Mit Navn p\xE5 latin er \nDama dama"
-  cardTextEnglish: "My name in latin is \nDama dama"
+  cardTextDanish: "Mit navn p\xE5 latin er \n\"Dama dama\""
+  cardTextEnglish: "My name in latin is \n\"Dama dama\""
   snakeType: 1

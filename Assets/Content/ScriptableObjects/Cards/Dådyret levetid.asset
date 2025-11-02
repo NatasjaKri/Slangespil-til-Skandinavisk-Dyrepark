@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg kan lever op til 15 \xE5r"
+  cardTextDanish: "Jeg lever i op til 15 \xE5r"
   cardTextEnglish: I can live up to 15 years
   snakeType: 1
