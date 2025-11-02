@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: Jeg spiser alt jeg vil, men min favorit er mus, fugle, insekter
-    og frugt
+  cardTextDanish: "Jeg er ikke kr\xE6sen, men min favorit mad er mus, fugle, insekter
+    og frugt"
   cardTextEnglish: I'm not a picky eater but my favorite is mice, birds, bugs and
     fruit
   snakeType: 1

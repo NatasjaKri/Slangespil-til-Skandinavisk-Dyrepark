@@ -15,5 +15,5 @@ MonoBehaviour:
   isPictureCard: 0
   sprite: {fileID: 0}
   cardTextDanish: "Jeg har r\xF8d pels med en hvid halespids "
-  cardTextEnglish: My fur is red and my the tip of my tail is white
+  cardTextEnglish: My fur is red and the tip of my tail is white
   snakeType: 1

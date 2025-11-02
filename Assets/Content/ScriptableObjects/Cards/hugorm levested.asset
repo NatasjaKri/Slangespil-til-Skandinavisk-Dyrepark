@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CardData_SO
   isPictureCard: 0
   sprite: {fileID: 0}
-  cardTextDanish: "Jeg bor b\xE5de i skove, marker, byer og din baghave"
-  cardTextEnglish: I live in both in forests, fields, towns and even your backyard
+  cardTextDanish: "Jeg bor i skove, marker, byer og m\xE5ske endda din baghave"
+  cardTextEnglish: I live in forests, fields, towns and maybe even your backyard
   snakeType: 1
