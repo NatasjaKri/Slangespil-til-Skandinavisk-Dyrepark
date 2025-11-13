@@ -35,12 +35,16 @@ Transform:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LocalScale: {x: 0.65, y: 0.65, z: 0.08125}
 =======
   m_LocalScale: {x: 0.55, y: 0.55, z: 0.6875}
 >>>>>>> Stashed changes
 =======
   m_LocalScale: {x: 0.55, y: 0.55, z: 0.6875}
+>>>>>>> Stashed changes
+=======
+  m_LocalScale: {x: 0.6, y: 0.6, z: 0.75}
 >>>>>>> Stashed changes
 =======
   m_LocalScale: {x: 0.6, y: 0.6, z: 0.75}

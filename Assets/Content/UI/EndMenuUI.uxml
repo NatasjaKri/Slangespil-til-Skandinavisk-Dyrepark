@@ -3,10 +3,17 @@
         <ui:VisualElement style="flex-grow: 1; min-width: 50px; min-height: 50px; background-image: url(&quot;project://database/Assets/Content/Sprites%20&amp;%20Animations/Skandinavisk%20dyrepark.png?fileID=2800000&amp;guid=7457491ea1d0eb54ea358003c64683c5&amp;type=3#Skandinavisk dyrepark&quot;); align-self: flex-start; top: 10px; left: 23px;" />
     </ui:VisualElement>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <ui:VisualElement style="flex-grow: 1; top: -3px; align-content: flex-start; align-items: stretch; max-height: 87px;">
         <ui:Label text="End of the Road Buddy" name="EndScreenTitle_Lbl" style="-unity-text-align: upper-center; font-size: 14px; align-content: auto; align-self: center; margin-top: 11px; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
         <ui:Label text="You got so and so many points yeeee-haaaa" name="FinalScore_Lbl" language-direction="Inherit" style="-unity-text-align: upper-center; font-size: 21px; -unity-font-style: bold;" />
         <ui:Button text="back to main menu" name="ToMainMenu_Btn" style="background-color: rgb(204, 153, 3); max-width: 200px; top: 11px; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-right-radius: 12px; border-bottom-left-radius: 12px; border-top-width: 5px; border-right-width: 5px; border-bottom-width: 5px; border-left-width: 5px; border-left-color: rgba(0, 0, 0, 0.27); border-right-color: rgba(0, 0, 0, 0.27); border-top-color: rgba(0, 0, 0, 0.27); border-bottom-color: rgba(0, 0, 0, 0.27); font-size: 15px; width: 233px; align-self: center; height: 0%; min-width: 40px; min-height: 42px; max-height: 10px; justify-content: flex-start;" />
+=======
+    <ui:VisualElement style="flex-grow: 1; top: -3px; align-content: flex-start; align-items: stretch; max-height: 95px;">
+        <ui:Label text="End of the Road Buddy" name="EndScreenTitle_Lbl" style="-unity-text-align: upper-center; font-size: 14px; align-content: auto; align-self: center; margin-top: 11px; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+        <ui:Label text="You got so and so many points yeeee-haaaa" name="FinalScore_Lbl" language-direction="Inherit" style="-unity-text-align: upper-center; font-size: 14px; -unity-font-style: bold;" />
+        <ui:Button text="back to main menu" name="ToMainMenu_Btn" style="background-color: rgb(204, 153, 3); max-width: 200px; top: 14px; border-top-left-radius: 12px; border-top-right-radius: 12px; border-bottom-right-radius: 12px; border-bottom-left-radius: 12px; border-top-width: 5px; border-right-width: 5px; border-bottom-width: 5px; border-left-width: 5px; border-left-color: rgba(0, 0, 0, 0.27); border-right-color: rgba(0, 0, 0, 0.27); border-top-color: rgba(0, 0, 0, 0.27); border-bottom-color: rgba(0, 0, 0, 0.27); font-size: 15px; width: 233px; align-self: center; height: 0%; min-width: 40px; min-height: 42px; max-height: 10px; justify-content: flex-start;" />
+>>>>>>> Stashed changes
 =======
     <ui:VisualElement style="flex-grow: 1; top: -3px; align-content: flex-start; align-items: stretch; max-height: 95px;">
         <ui:Label text="End of the Road Buddy" name="EndScreenTitle_Lbl" style="-unity-text-align: upper-center; font-size: 14px; align-content: auto; align-self: center; margin-top: 11px; margin-right: 0; margin-bottom: 0; margin-left: 0;" />

@@ -6,12 +6,16 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <ui:Label name="Tutorial_Lbl" style="height: 109px; width: auto; white-space: normal; top: 28px; -unity-text-align: upper-center; align-self: auto; font-size: 12px; -unity-background-scale-mode: stretch-to-fill; margin-top: 0; margin-right: 20px; margin-bottom: 0; margin-left: 20px; min-height: 107px;" />
         <ui:Button text="Start" name="Next_Btn" style="top: 0; background-color: rgb(204, 153, 3); border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 233px; align-self: center; height: 0; min-width: 40px; max-width: 200px; max-height: 10px; min-height: 42px; border-left-color: rgba(0, 0, 0, 0.27); border-right-color: rgba(0, 0, 0, 0.27); border-top-color: rgba(0, 0, 0, 0.27); border-bottom-color: rgba(0, 0, 0, 0.27); border-top-width: 5px; border-right-width: 5px; border-bottom-width: 5px; border-left-width: 5px;" />
 =======
 =======
 >>>>>>> Stashed changes
         <ui:Label name="Tutorial_Lbl" style="height: auto; width: auto; white-space: normal; top: 28px; -unity-text-align: upper-center; align-self: auto; font-size: 8px; -unity-background-scale-mode: stretch-to-fill; margin-top: 0; margin-right: 20px; margin-bottom: 0; margin-left: 20px; min-height: 87px;" />
+=======
+        <ui:Label name="Tutorial_Lbl" style="height: auto; width: auto; white-space: normal; top: 24px; -unity-text-align: upper-center; align-self: auto; font-size: 12px; -unity-background-scale-mode: stretch-to-fill; margin-top: 0; margin-right: 20px; margin-bottom: 0; margin-left: 20px; min-height: 90px;" />
+>>>>>>> Stashed changes
 =======
         <ui:Label name="Tutorial_Lbl" style="height: auto; width: auto; white-space: normal; top: 24px; -unity-text-align: upper-center; align-self: auto; font-size: 12px; -unity-background-scale-mode: stretch-to-fill; margin-top: 0; margin-right: 20px; margin-bottom: 0; margin-left: 20px; min-height: 90px;" />
 >>>>>>> Stashed changes
