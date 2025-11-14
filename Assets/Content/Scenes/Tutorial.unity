@@ -356,7 +356,13 @@ MonoBehaviour:
   tutorialDanish: "Du bliver stillet en r\xE6kke sp\xF8rgsm\xE5l hvor du svare snog
     eller hugorm.\nSwipe til h\xF8jre for at svare snog, og til venstre for at svare
     hugorm.\nhvis du er i tvivel, kan du kigge p\xE5 udstillingen"
-  tutorialEnglish: 
+  tutorialEnglish: 'You will be asked a series of questions where you answer grass
+    snake or viper.
+
+    Swipe right to answer grass snake and left to answer viper.
+
+    If
+    you are in doubt, you can look at the exhibition.'
   nextBtnTextDanish: "N\xE6ste"
   nextBtnTextEnglish: next
 --- !u!1660057539 &9223372036854775807
