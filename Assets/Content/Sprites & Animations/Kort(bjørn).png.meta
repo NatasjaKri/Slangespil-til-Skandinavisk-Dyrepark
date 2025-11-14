@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-guid: f5aaa07bd4292de4f818ab110289bbdb
-=======
-guid: 537d6497d1d1d7a4fb5601fc27395bee
->>>>>>> Stashed changes
-=======
-guid: 537d6497d1d1d7a4fb5601fc27395bee
->>>>>>> Stashed changes
-=======
-guid: f5aaa07bd4292de4f818ab110289bbdb
->>>>>>> Stashed changes
+guid: 9de4a00d061874e459d0ef385275e005
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4959185469824107617
-    second: "Isbj\xF8rn hovde_0"
+      213: 4050991680818791860
+    second: "Kort(bj\xF8rn)_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1000
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -125,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Isbj\xF8rn hovde_0"
+      name: "Kort(bj\xF8rn)_0"
       rect:
         serializedVersion: 2
         x: 0
-        y: 48
-        width: 927
-        height: 864
+        y: 0
+        width: 496
+        height: 697
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1640520f8e092d440800000000000000
-      internalID: 4959185469824107617
+      spriteID: 4b5444b7873083830800000000000000
+      internalID: 4050991680818791860
       vertices: []
       indices: 
       edges: []
@@ -150,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -160,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "Isbj\xF8rn hovde_0": 4959185469824107617
+      "Kort(bj\xF8rn)_0": 4050991680818791860
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
