@@ -37,8 +37,13 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_AnchoredPosition: {x: 0.0192, y: -0.0176}
   m_SizeDelta: {x: 4.0385, y: 6.1351}
+=======
+  m_AnchoredPosition: {x: 0.0001, y: 0.2481}
+  m_SizeDelta: {x: 3.6565, y: 5.2982}
+>>>>>>> Stashed changes
 =======
   m_AnchoredPosition: {x: 0.0001, y: 0.2481}
   m_SizeDelta: {x: 3.6565, y: 5.2982}
@@ -182,7 +187,10 @@ MonoBehaviour:
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_margin: {x: 0, y: 0, z: 0, w: 0}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   m_margin: {x: 0, y: 0, z: 0, w: -0.017663717}
@@ -222,7 +230,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       objectReference: {fileID: 21300000, guid: d5852b01e55d73e4683315ec5868c7c2, type: 3}
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
       objectReference: {fileID: 21300000, guid: 79463c1517bde1c44809d81022e9d629, type: 3}

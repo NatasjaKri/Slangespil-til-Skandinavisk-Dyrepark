@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
 <<<<<<< Updated upstream
 guid: 8a62ffeeaacd2d64bb271c23c845aa7b
@@ -34,13 +35,18 @@ TextureImporter:
       213: 3664534019112875488
     second: "R\xE6v hoved_1"
 ========
+=======
+>>>>>>> Stashed changes
 guid: 1d16ac32dbfc2de49b5cd3df714433ef
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -8710260844658196907
     second: "Polar r\xE6v_0"
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Polar ræv.png.meta
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   externalObjects: {}
   serializedVersion: 13
@@ -151,6 +157,7 @@ TextureImporter:
     sprites:
     - serializedVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
       name: "Polar r\xE6v_0"
 ========
@@ -168,10 +175,14 @@ TextureImporter:
 ========
       name: "Polar r\xE6v_0"
 >>>>>>> Stashed changes
+=======
+      name: "Polar r\xE6v_0"
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
         y: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
         width: 1024
@@ -185,6 +196,10 @@ TextureImporter:
         height: 966
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Polar ræv.png.meta
 >>>>>>> Stashed changes
+=======
+        width: 1024
+        height: 966
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,6 +208,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
       spriteID: 55e772529efee1780800000000000000
@@ -232,6 +248,10 @@ TextureImporter:
       internalID: -8710260844658196907
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Polar ræv.png.meta
 >>>>>>> Stashed changes
+=======
+      spriteID: 55e772529efee1780800000000000000
+      internalID: -8710260844658196907
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -251,6 +271,7 @@ TextureImporter:
       entries: []
     nameFileIdTable:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
       "Polar r\xE6v_0": -8710260844658196907
 ========
@@ -263,6 +284,9 @@ TextureImporter:
 ========
       "Polar r\xE6v_0": -8710260844658196907
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Polar ræv.png.meta
+>>>>>>> Stashed changes
+=======
+      "Polar r\xE6v_0": -8710260844658196907
 >>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
