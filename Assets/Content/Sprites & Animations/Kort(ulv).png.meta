@@ -1,4 +1,6 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
 guid: 3a07593bfd2fd25478dac23762a345a0
 TextureImporter:
@@ -6,6 +8,19 @@ TextureImporter:
   - first:
       213: -7938954307086136573
     second: hugorm_0
+=======
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
+<<<<<<< Updated upstream
+guid: 8a62ffeeaacd2d64bb271c23c845aa7b
+=======
+guid: 1d16ac32dbfc2de49b5cd3df714433ef
+>>>>>>> Stashed changes
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8710260844658196907
+    second: "Polar r\xE6v_0"
+>>>>>>> Stashed changes
 ========
 guid: 79463c1517bde1c44809d81022e9d629
 TextureImporter:
@@ -14,6 +29,20 @@ TextureImporter:
       213: -6747294351046062205
     second: Kort(ulv)_0
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+<<<<<<< Updated upstream
+========
+guid: c18788c506561b64fabbbbd395a331d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7746657479313122574
+    second: "R\xE6v hoved_0"
+  - first:
+      213: 3664534019112875488
+    second: "R\xE6v hoved_1"
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Ræv hoved.png.meta
+=======
+>>>>>>> Stashed changes
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,6 +151,8 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
       name: hugorm_0
       rect:
@@ -132,13 +163,39 @@ TextureImporter:
         height: 566
 ========
       name: Kort(ulv)_0
+=======
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
+      name: "Polar r\xE6v_0"
+========
+      name: Kort(ulv)_0
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
         y: 0
+<<<<<<< Updated upstream
         width: 496
         height: 697
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+========
+      name: "R\xE6v hoved_0"
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 933
+        width: 16
+        height: 32
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Ræv hoved.png.meta
+=======
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
+        width: 1024
+        height: 966
+========
+        width: 496
+        height: 697
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,13 +204,49 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
       spriteID: 30bc21ebe1b23d190800000000000000
       internalID: -7938954307086136573
+=======
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
+      spriteID: 55e772529efee1780800000000000000
+      internalID: -8710260844658196907
+>>>>>>> Stashed changes
 ========
       spriteID: 38f46e2598bcc52a0800000000000000
       internalID: -6747294351046062205
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+<<<<<<< Updated upstream
+========
+      spriteID: 2fa1bece0185e7490800000000000000
+      internalID: -7746657479313122574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "R\xE6v hoved_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1041
+        height: 899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5be8c564a0bd230800000000000000
+      internalID: 3664534019112875488
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Ræv hoved.png.meta
+=======
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -172,11 +265,24 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
       hugorm_0: -7938954307086136573
 ========
       Kort(ulv)_0: -6747294351046062205
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+========
+      "R\xE6v hoved_0": -7746657479313122574
+      "R\xE6v hoved_1": 3664534019112875488
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Ræv hoved.png.meta
+=======
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Polar ræv.png.meta
+      "Polar r\xE6v_0": -8710260844658196907
+========
+      Kort(ulv)_0: -6747294351046062205
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+>>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
