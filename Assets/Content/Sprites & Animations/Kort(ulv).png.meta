@@ -1,6 +1,7 @@
 fileFormatVersion: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
 guid: 3a07593bfd2fd25478dac23762a345a0
@@ -32,11 +33,15 @@ TextureImporter:
 >>>>>>> Stashed changes
 ========
 guid: 79463c1517bde1c44809d81022e9d629
+=======
+guid: 3a07593bfd2fd25478dac23762a345a0
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -6747294351046062205
     second: Kort(ulv)_0
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -62,6 +67,8 @@ TextureImporter:
       213: -6747294351046062205
     second: Kort(ulv)_0
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   externalObjects: {}
   serializedVersion: 13
@@ -104,12 +111,20 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
+<<<<<<< Updated upstream
   spriteMode: 1
+=======
+  spriteMode: 2
+>>>>>>> Stashed changes
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream
   spritePixelsToUnits: 1000
+=======
+  spritePixelsToUnits: 100
+>>>>>>> Stashed changes
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -173,6 +188,7 @@ TextureImporter:
     - serializedVersion: 2
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
 =======
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
@@ -228,6 +244,8 @@ TextureImporter:
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
       name: Kort(ulv)_0
       rect:
         serializedVersion: 2
@@ -235,7 +253,10 @@ TextureImporter:
         y: 0
         width: 496
         height: 697
+<<<<<<< Updated upstream
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -245,6 +266,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
@@ -302,6 +324,10 @@ TextureImporter:
       internalID: -6747294351046062205
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
 >>>>>>> Stashed changes
+=======
+      spriteID: 38f46e2598bcc52a0800000000000000
+      internalID: -6747294351046062205
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -310,7 +336,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< Updated upstream
     spriteID: 5e97eb03825dee720800000000000000
+=======
+    spriteID: 
+>>>>>>> Stashed changes
     internalID: 0
     vertices: []
     indices: 
@@ -320,6 +350,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
@@ -346,6 +377,9 @@ TextureImporter:
 =======
       Kort(ulv)_0: -6747294351046062205
 >>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
+>>>>>>> Stashed changes
+=======
+      Kort(ulv)_0: -6747294351046062205
 >>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

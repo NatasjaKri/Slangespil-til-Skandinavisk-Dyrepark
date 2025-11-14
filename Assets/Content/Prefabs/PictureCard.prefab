@@ -23,7 +23,11 @@ PrefabInstance:
     - target: {fileID: -5075623978297437654, guid: 46d8b45079b9b9c4ab66f16e7cd48ec8, type: 3}
       propertyPath: m_Sprite
       value: 
+<<<<<<< Updated upstream
       objectReference: {fileID: 21300000, guid: 79463c1517bde1c44809d81022e9d629, type: 3}
+=======
+      objectReference: {fileID: -6747294351046062205, guid: 3a07593bfd2fd25478dac23762a345a0, type: 3}
+>>>>>>> Stashed changes
     - target: {fileID: -5075623978297437654, guid: 46d8b45079b9b9c4ab66f16e7cd48ec8, type: 3}
       propertyPath: m_SortingLayer
       value: 2
