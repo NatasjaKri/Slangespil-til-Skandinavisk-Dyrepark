@@ -1,10 +1,19 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
 guid: 001362b8f321dd945a10f8342bf8e4d1
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -7938954307086136573
     second: hugorm_0
+========
+guid: 79463c1517bde1c44809d81022e9d629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6747294351046062205
+    second: Kort(ulv)_0
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,6 +122,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
       name: hugorm_0
       rect:
         serializedVersion: 2
@@ -120,6 +130,15 @@ TextureImporter:
         y: 235
         width: 957
         height: 566
+========
+      name: Kort(ulv)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 496
+        height: 697
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +147,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
       spriteID: 30bc21ebe1b23d190800000000000000
       internalID: -7938954307086136573
+========
+      spriteID: 38f46e2598bcc52a0800000000000000
+      internalID: -6747294351046062205
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
       vertices: []
       indices: 
       edges: []
@@ -148,7 +172,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+<<<<<<<< Updated upstream:Assets/Content/Sprites & Animations/hugorm.png.meta
       hugorm_0: -7938954307086136573
+========
+      Kort(ulv)_0: -6747294351046062205
+>>>>>>>> Stashed changes:Assets/Content/Sprites & Animations/Kort(ulv).png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
