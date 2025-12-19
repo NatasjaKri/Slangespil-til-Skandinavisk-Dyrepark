@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: eddcfa412d1d2bf4c9a4754220773f65
+guid: dfe73fce9bd84a0408c6f0e374b78608
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1668811678504556696
-    second: "hugorm m\xF8nster_0"
+      213: -6747294351046062205
+    second: Kort(ulv)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "hugorm m\xF8nster_0"
+      name: Kort(ulv)_0
       rect:
         serializedVersion: 2
-        x: 163
+        x: 0
         y: 0
-        width: 236
-        height: 675
+        width: 496
+        height: 697
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86766b1ce9037d8e0800000000000000
-      internalID: -1668811678504556696
+      spriteID: 38f46e2598bcc52a0800000000000000
+      internalID: -6747294351046062205
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "hugorm m\xF8nster_0": -1668811678504556696
+      Kort(ulv)_0: -6747294351046062205
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
